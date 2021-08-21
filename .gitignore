@@ -2,6 +2,7 @@ desc.txt
 *.txt
 myfolder/
 work.txt
+!admin.txt
 # Created by https://www.toptal.com/developers/gitignore/api/windows,phpstorm
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,phpstorm
 
